@@ -3,10 +3,10 @@ print("hello world!")
 
 #A list populated with several values, then, print() one of those values
 best_steak_doneness = ["medium rare", "sometimes rare", "medium if it's a mistake"]
-print(best_steak_doneness)
+print(best_steak_doneness[2])
 
 unforgivable_mistakes = ["medium well", "well done"]
-print(unforgivable_mistakes)
+print(unforgivable_mistakes[0])
 
 #A dictionary populated with two keys and two values, print one of the values 
 wildly_overrated_movies = {
