@@ -11,4 +11,6 @@ kc_2 will be a python notebook and will have requirements to be installed. The e
         source venv/bin/activate
     4. Install the required packages by using the command: 
         pip install -r requirements.txt
+    5. The interpreter used for this project is the anaconda (conda)        version, hence the large requirements file. If your current interpreter already has the latest matplotlib and pandas, then it should work just fine. 
+    
 
